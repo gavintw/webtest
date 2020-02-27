@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "G97_TW_U01CO_2015",
+"features": [
+{ "type": "Feature", "properties": { "Field1": "COUNTY_ID", "Field2": "COUNTY" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "63000", "Field2": "臺北市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "64000", "Field2": "高雄市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "65000", "Field2": "新北市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "66000", "Field2": "臺中市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "67000", "Field2": "臺南市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "68000", "Field2": "桃園市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10002", "Field2": "宜蘭縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10004", "Field2": "新竹縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10005", "Field2": "苗栗縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10007", "Field2": "彰化縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10008", "Field2": "南投縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10009", "Field2": "雲林縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10010", "Field2": "嘉義縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10013", "Field2": "屏東縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10014", "Field2": "臺東縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10015", "Field2": "花蓮縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10016", "Field2": "澎湖縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10017", "Field2": "基隆市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10018", "Field2": "新竹市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "10020", "Field2": "嘉義市" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "09020", "Field2": "金門縣" }, "geometry": null },
+{ "type": "Feature", "properties": { "Field1": "09007", "Field2": "連江縣" }, "geometry": null }
+]
+}
